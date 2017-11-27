@@ -70,6 +70,7 @@ class ContactsTableViewController: UITableViewController {
         // Setting up the delegate
         let controller = AddViewController(nibName: nil, bundle: nil)
         controller.delegate = self
+    
         self.navigationController?.pushViewController(controller, animated: true)
     }
 

@@ -115,21 +115,21 @@
 		E9038AD21FA1C69A00CBC503 /* AddressBookSwiftVersion2.0 */ = {
 			isa = PBXGroup;
 			children = (
-				E9038B121FA1C72F00CBC503 /* AddressBookSwift4.xcdatamodeld */,
+				E9038B041FA1C72D00CBC503 /* AddressBookSwiftVersion2.0-Bridging-Header.h */,
+				E9038B0B1FA1C72E00CBC503 /* Info.plist */,
+				E9038B0C1FA1C72E00CBC503 /* names.plist */,
+				E9038B071FA1C72E00CBC503 /* LaunchScreen.storyboard */,
+				E9038B081FA1C72E00CBC503 /* Main.storyboard */,
 				E9038B051FA1C72E00CBC503 /* AddViewController.swift */,
-				E9038B101FA1C72F00CBC503 /* AddViewController.xib */,
 				E9038B091FA1C72E00CBC503 /* AppDelegate.swift */,
-				E9038B0F1FA1C72F00CBC503 /* Assets.xcassets */,
 				E9038B0D1FA1C72E00CBC503 /* ContactsTableViewController.swift */,
 				E9038B0A1FA1C72E00CBC503 /* ContactTableViewCell.swift */,
 				E9038B061FA1C72E00CBC503 /* DetailViewController.swift */,
-				E9038B0E1FA1C72E00CBC503 /* DetailViewController.xib */,
-				E9038B0B1FA1C72E00CBC503 /* Info.plist */,
-				E9038B071FA1C72E00CBC503 /* LaunchScreen.storyboard */,
-				E9038B081FA1C72E00CBC503 /* Main.storyboard */,
-				E9038B0C1FA1C72E00CBC503 /* names.plist */,
-				E9038B041FA1C72D00CBC503 /* AddressBookSwiftVersion2.0-Bridging-Header.h */,
 				E9E889731FA20AB300199B87 /* Person.swift */,
+				E9038B0F1FA1C72F00CBC503 /* Assets.xcassets */,
+				E9038B101FA1C72F00CBC503 /* AddViewController.xib */,
+				E9038B0E1FA1C72E00CBC503 /* DetailViewController.xib */,
+				E9038B121FA1C72F00CBC503 /* AddressBookSwift4.xcdatamodeld */,
 			);
 			path = AddressBookSwiftVersion2.0;
 			sourceTree = "<group>";
